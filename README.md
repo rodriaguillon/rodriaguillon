@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                   RODRIGO AGUILLON · rodriaguillon                       -->
-<!--             GitHub Profile README · Los Santos Edition                   -->
+<!--        GitHub Profile README · Los Santos × SHELMIA Edition             -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░  BANNER / HEADER  ░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -9,15 +9,15 @@
 
 <a href="https://github.com/rodriaguillon">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=RODRIGO%20AGUILLON&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=CHIEF%20EXECUTIVE%20OFFICER%20%26%20SYSTEM%20ARCHITECT&descSize=20&descAlignY=58&animation=fadeIn"
-    alt="Rodrigo Aguillon — Chief Executive Officer & System Architect"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=RODRIGO%20AGUILLON&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=CHIEF%20EXECUTIVE%20OFFICER%20%26%20SYSTEM%20ARCHITECT%20%40%20SHELMIA&descSize=18&descAlignY=58&animation=fadeIn"
+    alt="Rodrigo Aguillon — Chief Executive Officer & System Architect @ SHELMIA"
   />
 </a>
 
 <!-- Animated subtitle (synthwave typing) -->
 <a href="https://github.com/rodriaguillon">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F72585&center=true&vCenter=true&width=720&lines=Computer+Engineer+%7C+Cybersecurity+%26+AI+Specialist;Welcome+to+Los+Santos...+welcome+to+my+GitHub;Building+Academic+Cyber+Ranges;Threat+Analysis+%26+Neural+Networks"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F72585&center=true&vCenter=true&width=760&lines=Founder+%26+System+Architect+%40+SHELMIA;AI-Driven+Autonomous+SOC+Investigation;RAG+Chains+%C2%B7+LLM+Tool-Use+%C2%B7+Neural+Networks;From+Los+Santos+to+Production+%F0%9F%9A%80"
     alt="Typing subtitle"
   />
 </a>
@@ -28,6 +28,35 @@
 <img src="https://img.shields.io/badge/BASE%20OF%20OPERATIONS-URUGUAY%20%F0%9F%87%BA%F0%9F%87%BE-8338EC?style=for-the-badge&labelColor=0d0221" alt="Location: Uruguay" />
 <img src="https://komarev.com/ghpvc/?username=rodriaguillon&label=LOS%20SANTOS%20VISITORS&color=f72585&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-06d6a0?style=for-the-badge&labelColor=0d0221" alt="Status: online" />
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  CURRENT OPERATION: SHELMIA  ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🏙️ CURRENT OPERATION — `SHELMIA`
+
+> *"This ain't just another job, homie. This is the big score."*
+
+**SHELMIA** — *Autonomous Response & Investigation Agent*. An **AI-driven SOC platform**
+that ingests SIEM alerts, runs **LLM tool-use investigations** over threat intel, computes
+**deterministic verdicts**, and orchestrates human-in-the-loop response — SIEM-agnostic,
+multi-tenant, built to evolve without rewrites.
+
+```text
+[ SIEM ] → [ Ingestion ] → [ Orchestrator ] → [ Queue ] → [ Agent Loop ]
+                                                              │
+                       RAG Chains · Threat Intel · Neural Nets ┘
+                                                              ↓
+                          [ Deterministic Verdict ] → [ Active Response ]
+```
+
+<div align="center">
+
+![Role](https://img.shields.io/badge/ROLE-Founder%20%26%20System%20Architect-f72585?style=for-the-badge&labelColor=0d0221)
+![Domain](https://img.shields.io/badge/DOMAIN-Cybersecurity%20%2B%20AI-8338EC?style=for-the-badge&labelColor=0d0221)
+![Arch](https://img.shields.io/badge/ARCH-Modular%20Monolith%20%2B%20Async%20Workers-118ab2?style=for-the-badge&labelColor=0d0221)
 
 </div>
 
@@ -49,6 +78,7 @@
 ║   ────────────────────────────────────────────────────────────    ║
 ║   CASH / VALUE   $  EXECUTIVE  LEVEL                               ║
 ║   CLASS          COMPUTER ENGINEER · CYBERSECURITY & AI            ║
+║   FACTION        SHELMIA · Autonomous SOC Syndicate               ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -72,9 +102,10 @@
 - [x] **MISSION 01 — "THE HEIST":** Deploy [`tectonic`](https://github.com/rodriaguillon/tectonic), an Academic Cyber Range for security simulations
 - [x] **MISSION 02 — "PAPER TRAIL":** Ship [`CybersecThesis`](https://github.com/rodriaguillon/CybersecThesis) — deep cybersecurity research
 - [x] **MISSION 03 — "THE OG":** Reforge [`originaphpbb`](https://github.com/rodriaguillon/originaphpbb) & build [`labpfun`](https://github.com/rodriaguillon/labpfun)
-- [ ] **MISSION 04 — "MOST WANTED":** Enterprise AI Threat Detection at scale
-- [ ] **MISSION 05 — "GHOST IN THE GRID":** Neural-Network-powered defensive automation
-- [ ] **MISSION 06 — "END GAME":** Lead high-level security architecture partnerships
+- [ ] **MISSION 04 — "MOST WANTED":** Scale **SHELMIA** — enterprise AI threat detection & autonomous response
+- [ ] **MISSION 05 — "GHOST IN THE GRID":** RAG chains + LLM tool-use for real-time investigation
+- [ ] **MISSION 06 — "NEURAL DISTRICT":** Neural-network-powered defensive automation
+- [ ] **MISSION 07 — "END GAME":** Lead high-level security architecture partnerships
 
 ---
 
@@ -84,30 +115,55 @@
 
 ```bash
 $ ./loadout.sh --player rodriaguillon
-[+] Primary    : Python, PHP, Haskell
-[+] Secondary  : Bash, Git, Docker
-[+] Territory  : Linux · Cyber Ranges
-[+] Special Ops: Threat Analysis · Neural Networks
-[+] Status     : ARMED & OPERATIONAL
+[+] Languages   : Python, Java, JavaScript, TypeScript, PHP, Ruby, Haskell, Bash
+[+] Frontend    : React, Next.js
+[+] Backend     : Node.js, Ruby on Rails, FastAPI
+[+] AI / ML      : RAG Chains, LLM Tool-Use, Neural Networks, pydantic-ai
+[+] Data / Infra: PostgreSQL, Redis, Docker, Linux, Git
+[+] Security    : Cyber Ranges, SIEM, Threat Analysis, SOC Automation
+[+] Status      : ARMED & OPERATIONAL
 ```
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Environment & Tools
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### ⚙️ Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🧠 AI / ML / LLM
+![RAG Chains](https://img.shields.io/badge/RAG%20Chains-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![pydantic-ai](https://img.shields.io/badge/pydantic--ai-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🗄️ Data & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Special Ops
+### 🛡️ Security & Ops
 ![Cyber Ranges](https://img.shields.io/badge/Cyber%20Ranges-8338EC?style=for-the-badge&logo=hackthebox&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-1A2C42?style=for-the-badge&logo=elastic&logoColor=white)
 ![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-E63946?style=for-the-badge&logo=wireshark&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SOC Automation](https://img.shields.io/badge/SOC%20Automation-0d0221?style=for-the-badge&logo=securityscorecard&logoColor=white)
 
 </div>
 
@@ -120,7 +176,7 @@ $ ./loadout.sh --player rodriaguillon
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriaguillon&show_icons=true&count_private=true&hide_border=true&theme=synthwave&icon_color=f72585&title_color=f72585&text_color=ffffff" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriaguillon&layout=compact&hide_border=true&theme=synthwave&title_color=f72585&text_color=ffffff&langs_count=8" alt="Top languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriaguillon&layout=compact&hide_border=true&theme=synthwave&title_color=f72585&text_color=ffffff&langs_count=10" alt="Top languages" />
 
 <br/>
 
@@ -143,12 +199,11 @@ $ ./loadout.sh --player rodriaguillon
 
 > **STATUS:** `Open for High-Level Executive Partnerships & Security Architecture`
 
-<!-- TODO(rodriaguillon): replace the LinkedIn slug and email below with your real handles -->
-<a href="https://www.linkedin.com/in/rodrigo-aguillon">
+<a href="https://www.linkedin.com/in/rodrigo-aguillon/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221" alt="LinkedIn" />
 </a>
-<a href="mailto:rodrigo.aguillon@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221" alt="Email" />
+<a href="mailto:rodrigo@shelmia.com">
+  <img src="https://img.shields.io/badge/Email-rodrigo@shelmia.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0d0221" alt="Email" />
 </a>
 <a href="https://github.com/rodriaguillon">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221" alt="GitHub" />
