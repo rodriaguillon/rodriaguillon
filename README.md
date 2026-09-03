@@ -8,10 +8,7 @@
 <div align="center">
 
 <a href="https://github.com/rodriaguillon">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=RODRIGO%20AGUILLON&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=CHIEF%20EXECUTIVE%20OFFICER%20%26%20SYSTEM%20ARCHITECT%20%40%20SHELMIA&descSize=18&descAlignY=58&animation=fadeIn"
-    alt="Rodrigo Aguillon — Chief Executive Officer & System Architect @ SHELMIA"
-  />
+  <img src="assets/banner.svg" width="100%" alt="Rodrigo Aguillon — Chief Executive Officer & System Architect @ SHELMIA" />
 </a>
 
 <!-- Animated subtitle (synthwave typing) -->
@@ -39,24 +36,10 @@
 
 > *"This ain't just another job, homie. This is the big score."*
 
-**SHELMIA** — *Autonomous Response & Investigation Agent*. An **AI-driven SOC platform**
-that ingests SIEM alerts, runs **LLM tool-use investigations** over threat intel, computes
-**deterministic verdicts**, and orchestrates human-in-the-loop response — SIEM-agnostic,
-multi-tenant, built to evolve without rewrites.
-
-```text
-[ SIEM ] → [ Ingestion ] → [ Orchestrator ] → [ Queue ] → [ Agent Loop ]
-                                                              │
-                       RAG Chains · Threat Intel · Neural Nets ┘
-                                                              ↓
-                          [ Deterministic Verdict ] → [ Active Response ]
-```
-
 <div align="center">
 
-![Role](https://img.shields.io/badge/ROLE-Founder%20%26%20System%20Architect-f72585?style=for-the-badge&labelColor=0d0221)
+![Role](https://img.shields.io/badge/ROLE-CEO-f72585?style=for-the-badge&labelColor=0d0221)
 ![Domain](https://img.shields.io/badge/DOMAIN-Cybersecurity%20%2B%20AI-8338EC?style=for-the-badge&labelColor=0d0221)
-![Arch](https://img.shields.io/badge/ARCH-Modular%20Monolith%20%2B%20Async%20Workers-118ab2?style=for-the-badge&labelColor=0d0221)
 
 </div>
 
@@ -175,11 +158,6 @@ $ ./loadout.sh --player rodriaguillon
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriaguillon&show_icons=true&count_private=true&hide_border=true&theme=synthwave&icon_color=f72585&title_color=f72585&text_color=ffffff" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriaguillon&layout=compact&hide_border=true&theme=synthwave&title_color=f72585&text_color=ffffff&langs_count=10" alt="Top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=rodriaguillon&theme=synthwave&hide_border=true&background=0d0221&stroke=f72585&ring=f72585&fire=ffd60a&currStreakLabel=f72585" alt="GitHub streak" />
 
 </div>
@@ -205,11 +183,6 @@ $ ./loadout.sh --player rodriaguillon
 </a>
 
 <br/><br/>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"
-  alt="footer"
-/>
 
 <sub>⌁ END OF TRANSMISSION ⌁ · Encrypted from Los Santos, Uruguay 🇺🇾</sub>
 
