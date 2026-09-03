@@ -14,7 +14,7 @@
 <!-- Animated subtitle (synthwave typing) -->
 <a href="https://github.com/rodriaguillon">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F72585&center=true&vCenter=true&width=760&lines=Founder+%26+System+Architect+%40+SHELMIA;AI-Driven+Autonomous+SOC+Investigation;RAG+Chains+%C2%B7+LLM+Tool-Use+%C2%B7+Neural+Networks;From+Los+Santos+to+Production+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F72585&center=true&vCenter=true&width=760&lines=Founder+%26+System+Architect+%40+SHELMIA;AI-Driven+Autonomous+SOC+Investigation;RAG+Chains+%C2%B7+LLM+Tool-Use+%C2%B7+Neural+Networks"
     alt="Typing subtitle"
   />
 </a>
@@ -22,7 +22,9 @@
 <br/>
 
 <!-- Location + visitor HUD badges -->
-<img src="https://img.shields.io/badge/BASE%20OF%20OPERATIONS-URUGUAY%20%F0%9F%87%BA%F0%9F%87%BE-8338EC?style=for-the-badge&labelColor=0d0221" alt="Location: Uruguay" />
+<img src="https://img.shields.io/badge/BASE%20OF%20OPERATIONS-MONTEVIDEO%2C%20URUGUAY-8338EC?style=for-the-badge&labelColor=0d0221" alt="Base of operations: Montevideo, Uruguay" />
+<img src="assets/flag-uy.svg" height="28" alt="Uruguay flag" />
+<br/>
 <img src="https://komarev.com/ghpvc/?username=rodriaguillon&label=LOS%20SANTOS%20VISITORS&color=f72585&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-06d6a0?style=for-the-badge&labelColor=0d0221" alt="Status: online" />
 
@@ -51,7 +53,7 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
-║   PLAYER: rodriaguillon                LOS SANTOS · SAN ANDREAS    ║
+║   PLAYER: rodriaguillon                MONTEVIDEO · URUGUAY        ║
 ║   ────────────────────────────────────────────────────────────    ║
 ║   WANTED LEVEL   ★ ★ ★ ★ ★    HIGH THREAT DEVELOPER               ║
 ║   ────────────────────────────────────────────────────────────    ║
@@ -184,6 +186,11 @@ $ ./loadout.sh --player rodriaguillon
 
 <br/><br/>
 
-<sub>⌁ END OF TRANSMISSION ⌁ · Encrypted from Los Santos, Uruguay 🇺🇾</sub>
+<img src="assets/footer.svg" width="100%" alt="" />
+
+<br/>
+
+<sub>⌁ END OF TRANSMISSION ⌁ · Encrypted from Montevideo, Uruguay</sub>
+<img src="assets/flag-uy.svg" height="12" alt="Uruguay flag" />
 
 </div>
