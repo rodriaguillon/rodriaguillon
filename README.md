@@ -39,13 +39,6 @@
 
 > *"This ain't just another job, homie. This is the big score."*
 
-<div align="center">
-
-![Role](https://img.shields.io/badge/ROLE-CEO-f72585?style=for-the-badge&labelColor=0d0221)
-![Domain](https://img.shields.io/badge/DOMAIN-Cybersecurity%20%2B%20AI-8338EC?style=for-the-badge&labelColor=0d0221)
-
-</div>
-
 ---
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░  CHARACTER STATS (GTA HUD)  ░░░░░░░░░░░░░░░░░░░░░░ -->
