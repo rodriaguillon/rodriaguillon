@@ -24,6 +24,7 @@
 <!-- Location + visitor HUD badges -->
 <img src="https://img.shields.io/badge/BASE%20OF%20OPERATIONS-MONTEVIDEO%2C%20URUGUAY-8338EC?style=for-the-badge&labelColor=0d0221" alt="Base of operations: Montevideo, Uruguay" />
 <img src="assets/flag-uy.svg" height="28" alt="Uruguay flag" />
+<img src="assets/mate.svg" height="30" alt="Mate" />
 <br/>
 <img src="https://komarev.com/ghpvc/?username=rodriaguillon&label=LOS%20SANTOS%20VISITORS&color=f72585&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-06d6a0?style=for-the-badge&labelColor=0d0221" alt="Status: online" />
@@ -191,6 +192,7 @@ $ ./loadout.sh --player rodriaguillon
 <br/>
 
 <sub>⌁ END OF TRANSMISSION ⌁ · Encrypted from Montevideo, Uruguay</sub>
-<img src="assets/flag-uy.svg" height="12" alt="Uruguay flag" />
+<img src="assets/flag-uy.svg" height="13" alt="Uruguay flag" />
+<img src="assets/mate.svg" height="15" alt="Mate" />
 
 </div>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 56" width="48" height="56" role="img" aria-label="Mate">
+  <!-- gourd body -->
+  <ellipse cx="24" cy="36" rx="16" ry="17" fill="#7a4a22"/>
+  <ellipse cx="24" cy="36" rx="16" ry="17" fill="none" stroke="#5a3517" stroke-width="1.5"/>
+  <!-- decorative band -->
+  <path d="M9,33 Q24,41 39,33" fill="none" stroke="#a9743c" stroke-width="2.5"/>
+  <!-- opening -->
+  <ellipse cx="24" cy="20" rx="12" ry="5" fill="#4a2c14"/>
+  <!-- yerba (green) -->
+  <ellipse cx="24" cy="18.5" rx="11" ry="3.8" fill="#6fa532"/>
+  <path d="M13,19 Q24,24 35,19 Q24,22 13,19 Z" fill="#5c8a2a"/>
+  <!-- bombilla (metal straw) -->
+  <line x1="28" y1="21" x2="40" y2="5" stroke="#b9bfc5" stroke-width="3" stroke-linecap="round"/>
+  <line x1="28" y1="21" x2="40" y2="5" stroke="#8f969d" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="41" cy="4" r="3.2" fill="#c8cdd2"/>
+</svg>

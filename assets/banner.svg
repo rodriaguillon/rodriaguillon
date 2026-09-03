@@ -42,5 +42,5 @@
   <text x="500" y="112" text-anchor="middle" font-family="Verdana, 'Segoe UI', Arial, sans-serif" font-size="50" font-weight="800" letter-spacing="3" fill="url(#name)" filter="url(#glow)">RODRIGO AGUILLON</text>
 
   <!-- subtitle -->
-  <text x="500" y="150" text-anchor="middle" font-family="Verdana, 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="4" fill="#4cc9f0">CHIEF EXECUTIVE OFFICER &#183; SYSTEM ARCHITECT &#183; SHELMIA</text>
+  <text x="500" y="150" text-anchor="middle" font-family="Verdana, 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="4" fill="#4cc9f0">CEO &amp; CO-FOUNDER &#183; SHELMIA</text>
 </svg>
