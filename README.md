@@ -14,7 +14,7 @@
 <!-- Animated subtitle (synthwave typing) -->
 <a href="https://github.com/rodriaguillon">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F72585&center=true&vCenter=true&width=760&lines=Founder+%26+System+Architect+%40+SHELMIA;AI-Driven+Autonomous+SOC+Investigation;RAG+Chains+%C2%B7+LLM+Tool-Use+%C2%B7+Neural+Networks"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F72585&center=true&vCenter=true&width=760&lines=CEO+%26+Co-Founder+%40+SHELMIA;AI-Driven+Autonomous+SOC+Investigation;RAG+Chains+%C2%B7+LLM+Tool-Use+%C2%B7+Neural+Networks"
     alt="Typing subtitle"
   />
 </a>
