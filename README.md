@@ -14,7 +14,7 @@
 <!-- Animated subtitle (synthwave typing) -->
 <a href="https://github.com/rodriaguillon">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F72585&center=true&vCenter=true&width=760&lines=CEO+%26+Co-Founder+%40+SHELMIA;AI-Driven+Autonomous+SOC+Investigation;RAG+Chains+%C2%B7+LLM+Tool-Use+%C2%B7+Neural+Networks"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F72585&center=true&vCenter=true&width=760&lines=AI-Driven+Autonomous+SOC+Investigation;RAG+Chains+%C2%B7+LLM+Tool-Use+%C2%B7+Neural+Networks"
     alt="Typing subtitle"
   />
 </a>
@@ -23,7 +23,8 @@
 
 <!-- Location + visitor HUD badges -->
 <img src="https://img.shields.io/badge/BASE%20OF%20OPERATIONS-MONTEVIDEO%2C%20URUGUAY-8338EC?style=for-the-badge&labelColor=0d0221" alt="Base of operations: Montevideo, Uruguay" />
-<img src="assets/flag-uy.svg" height="28" alt="Uruguay flag" /> 🧉
+<img src="assets/flag-uy.svg" height="28" alt="Uruguay flag" />
+<img src="assets/mate.svg" height="30" alt="Mate" />
 <br/>
 <img src="https://komarev.com/ghpvc/?username=rodriaguillon&label=LOS%20SANTOS%20VISITORS&color=f72585&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-06d6a0?style=for-the-badge&labelColor=0d0221" alt="Status: online" />
@@ -186,11 +187,12 @@ $ ./loadout.sh --player rodriaguillon
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="wave" />
 
 <br/>
 
 <sub>⌁ END OF TRANSMISSION ⌁ · Encrypted from Montevideo, Uruguay</sub>
-<img src="assets/flag-uy.svg" height="13" alt="Uruguay flag" /> 🧉
+<img src="assets/flag-uy.svg" height="13" alt="Uruguay flag" />
+<img src="assets/mate.svg" height="16" alt="Mate" />
 
 </div>
