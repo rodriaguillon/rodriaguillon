@@ -182,11 +182,6 @@ $ ./loadout.sh --player rodriaguillon
 
 <img src="https://streak-stats.demolab.com?user=rodriaguillon&theme=synthwave&hide_border=true&background=0d0221&stroke=f72585&ring=f72585&fire=ffd60a&currStreakLabel=f72585" alt="GitHub streak" />
 
-<br/>
-
-<!-- Criminal record = achievements -->
-<img src="https://github-profile-trophy.vercel.app/?username=rodriaguillon&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-
 </div>
 
 ---
